@@ -3,10 +3,30 @@
     <title>Broccoli Party</title>
     <link href="https://pranavk239.github.io/broccoli-party/feed.xml" rel="self" />
     <link href="https://pranavk239.github.io/broccoli-party" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-08-06T00:24:42-05:00</updated>
     <author>
         <name>Pranav Krishnan</name>
     </author>
     <id>https://pranavk239.github.io/broccoli-party</id>
 
+    <entry>
+        <title>home</title>
+        <author>
+            <name>Pranav Krishnan</name>
+        </author>
+        <link href="https://pranavk239.github.io/broccoli-party/home-3.html"/>
+        <id>https://pranavk239.github.io/broccoli-party/home-3.html</id>
+
+        <updated>2025-08-06T00:24:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    home
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>home</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
